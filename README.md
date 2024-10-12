@@ -8,7 +8,10 @@ This is a versatile blogging platform that facilitates content management for bl
 - Responsive design
 
 ## Screenshots
-![Screenshot 2024-10-12 203242](https://github.com/user-attachments/assets/26672180-d04b-4321-8d65-b21d0cb6717b/600x400)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/26672180-d04b-4321-8d65-b21d0cb6717b" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/user-attachments/assets/26672180-d04b-4321-8d65-b21d0cb6717b" alt="Screenshot 2" width="300" />
+</div>
 
 ## Developer
 Developer: [@YagizTopaldemir](https://github.com/YagizTopaldemir)  
