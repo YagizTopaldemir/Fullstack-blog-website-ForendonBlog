@@ -8,8 +8,7 @@ This is a versatile blogging platform that facilitates content management for bl
 - Responsive design
 
 ## Screenshots
-![Blog Platform Screenshot 1](https://via.placeholder.com/600x400)
-![Blog Platform Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 2024-10-12 203242](https://github.com/user-attachments/assets/26672180-d04b-4321-8d65-b21d0cb6717b/600x400)
 
 ## Developer
 Developer: [@YagizTopaldemir](https://github.com/YagizTopaldemir)  
