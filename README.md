@@ -23,14 +23,7 @@ This is a versatile blogging platform that facilitates content management for bl
   <img src="https://github.com/user-attachments/assets/5ce5a209-bcc6-4851-9a02-b3e42355c77f" alt="Screenshot 2" width="300" />
 </div>
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/7d2720e2-25c1-4c04-adbe-e23bceda95c3" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/user-attachments/assets/5ce5a209-bcc6-4851-9a02-b3e42355c77f" alt="Screenshot 2" width="300" />
-</div>
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/314c751c-eac1-43b1-8f4f-957ec770a509" alt="Screenshot 1" width="300" />
-</div>
 
 
 
