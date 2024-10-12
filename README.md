@@ -28,7 +28,6 @@ This is a versatile blogging platform that facilitates content management for bl
 
 
 
-https://github.com/user-attachments/assets/c458f0b6-5887-4f51-9cad-31b083291f20
 ## Developer
 Developer: [@YagizTopaldemir](https://github.com/YagizTopaldemir)  
 This application is built using the MERN stack, leveraging the capabilities of React.js for a seamless user experience.
