@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  overflow-x: hidden;
+  background-color: #f9faf9;
+}
+
+input[type="radio"] {
+    appearance: none; /* Varsayılan görünümü kaldır */
+    width: 20px; /* Boyut ayarı */
+    height: 20px; /* Boyut ayarı */
+    border: 2px solid #cbd5e1; /* Sınır rengi */
+    border-radius: 50%; /* Yuvarlak görünüm */
+    outline: none; /* Kenar çizgisi kaldır */
+    cursor: pointer; /* İmleci el yap */
+  }
+  
+  input[type="radio"]:checked {
+    background-color: #1a930f; /* Seçili arka plan rengi */
+    border-color: #1a930f; /* Seçili sınır rengi */
+  }
