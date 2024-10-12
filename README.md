@@ -1,16 +1,16 @@
-# Blog Platformu
+# Blogging Platform
 
-Çok amaçlı bir blog platformudur ve bloggerlar için içerik yönetimini kolaylaştırır. Kullanıcılar, yazıları kolayca ekleyerek, düzenleyerek ve silerek içerik oluşturma sürecini basitleştirebilir. Özellikle arama ve kategori keşif özelliklerini kullanarak, kullanıcılar hızlı bir şekilde ilgili içeriği bulabilirler.
+This is a versatile blogging platform that facilitates content management for bloggers. Users can simplify the content creation process by easily adding, editing, and deleting posts. The platform features robust search and category exploration capabilities, allowing users to quickly find relevant content.
 
-## Özellikler
-- Kolay içerik yönetimi
-- Hızlı arama ve kategori keşfi
-- Responsive tasarım
+## Features
+- Easy content management
+- Quick search and category exploration
+- Responsive design
 
-## Ekran Görüntüleri
-![Blog Platformu Ekran Görüntüsü 1](https://via.placeholder.com/600x400)
-![Blog Platformu Ekran Görüntüsü 2](https://via.placeholder.com/600x400)
+## Screenshots
+![Blog Platform Screenshot 1](https://via.placeholder.com/600x400)
+![Blog Platform Screenshot 2](https://via.placeholder.com/600x400)
 
-## Geliştirici
-Geliştirici: [@YagizTopaldemir](https://github.com/YagizTopaldemir)  
-Uygulama, React.js ile MERN yığını kullanılarak geliştirilmiştir.
+## Developer
+Developer: [@YagizTopaldemir](https://github.com/YagizTopaldemir)  
+This application is built using the MERN stack, leveraging the capabilities of React.js for a seamless user experience.
